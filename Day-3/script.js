@@ -13,7 +13,7 @@
 
 // let text = "ram"
 // let name = 'Ram'
-// let text2 = `Your namesdfsd465465654465d43543$#%$#%$#%43554 is ${name}`
+// let text2 = `Your amesdfsd465465654465d43543$#%$#%$#%43554 is ${name}`
 
 // console.log(text2)
 
