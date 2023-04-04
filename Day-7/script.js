@@ -1,0 +1,1 @@
+console.log("Code updated according to the reviewer comment")
