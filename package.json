@@ -1,8 +1,8 @@
 {
   "name": "jsclass",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "this Js learning course",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/abdulbasitcse/Batch-C-JSClassCode.git"
   },
-  "author": "",
+  "author": "Primathon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/abdulbasitcse/Batch-C-JSClassCode/issues"

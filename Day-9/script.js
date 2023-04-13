@@ -27,8 +27,8 @@
 //     console.log(i)
 // }
 
-for (let j = 1;j<10 ; j += 2) {
-    console.log(j);
+// for (let j = 1;j<10 ; j += 2) {
+//     console.log(j);
     
-  }
+//   }
   

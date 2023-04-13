@@ -121,6 +121,6 @@ const PromptSync = require("prompt-sync");
 // }
 
 //import promt from "../node_modules/prompt-sync/package.json";
-// const prompt=require('prompt-sync')()
-// var a;
-// a=prompt("Enter your name")
+const prompt=require('prompt-sync')()
+var a;
+a=prompt("Enter your name")
